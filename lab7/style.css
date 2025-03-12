@@ -48,7 +48,7 @@ padding: 2rem 4rem;}
     .gallery{display: flex;
     flex-flow: column wrap;
 max-height: 78rem;}
-.gallery h2{margin: 5rem;}
+.gallery h2{margin: .5rem;}
 .gallery img{width: 32%;
 margin: .5rem}}
 @media (min-width:1500px){
