@@ -2,7 +2,7 @@ body{background-color:rgb(6,6,56);
 color:rgb(255,255,255);
 font-family:'Courier New', Courier, monospace;
 margin: 0;}
-header{background-color: (25,64,100);/*Missing rgb infront of the ( */
+header{background-color: rgb(25,64,100);
 padding:1rem 2rem;
 text-align: center}
 header a{color:rgb(66,211,221);}
